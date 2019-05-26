@@ -1,0 +1,25 @@
+Espacio de direcciones: 193.65.72.0/22
+
+R1
+Reserva:7 hosts
+193.65.72.0/25
+193.65.72.127
+Rango válido para hosts: 
+193.65.72.1 - 193.65.72.126
+
+R0
+Reserva:9 hosts
+193.65.72.128/23
+193.65.73.255
+
+Rango válido para hosts: 
+193.65.72.129 - 193.65.73.254
+
+R2
+Reserva:7 hosts
+193.65.74.0/25
+193.65.74.127
+
+Rango válido para hosts: 
+193.65.74.1 - 193.65.74.126
+
